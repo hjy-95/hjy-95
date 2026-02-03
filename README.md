@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Hussein Younes
 ### Sales & Marketing Specialist | AI Business Strategist
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjy11595&show_icons=true&theme=radical" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hjy11595&show_icons=true&theme=radical" /></p>
 
 ## 📖 Summary
 Specialist in **Sales and Marketing** with over **8.5 years of experience** in driving revenue and enhancing customer satisfaction. Proven track record in public relations, field analysis, and creative content production. Known for a proactive approach and the ability to thrive in high-pressure environments.
 
 ## 💼 Professional Experience
 
-* **AI & Digital Strategy Integration**
-    * Leveraging AI tools to automate marketing workflows and drive business growth.
-    * Utilizing AI for market data analysis and enhancing sales conversion strategies.
-    * Integrating automated solutions for customer lead generation and follow-ups.
+* **AI Business Integration Specialist (Freelance)**
+    * Integrating AI tools into sales pipelines to automate lead generation and follow-ups.
+    * Developing custom AI chatbots and automated workflows to enhance marketing strategies.
+    * Utilizing AI for market data analysis and predictive sales modeling.
 
 * **Car Dealer / Rental Specialist** | *CAR RENTAL LEB*
     * Assisting customers with bookings and ensuring high service quality.
@@ -24,16 +22,14 @@ Specialist in **Sales and Marketing** with over **8.5 years of experience** in d
 
 * **Sales Associate** | *Virgin Megastore* & *American Eagle*
     * Assisted customers in selecting products and driving sales growth.
-    * Proactively identified customer needs to recommend tailored solutions.
 
 ## 🎓 Education
 * **Bachelor's Degree in Marketing** | *Lebanese International University (LIU)*
 * **Literature Degree** | *Al-Najat Private School - Kuwait*
 
 ## 🛠 Skills & Expertise
+* **AI & Tech**: Automation, AI-driven marketing solutions, and CRM optimization.
 * **Core Skills**: Strategic selling, payment handling, and visual merchandising.
-* **Interpersonal**: Public relations, teamwork, and excellent communication.
-* **AI & Tech**: Automation and AI-driven business solutions.
 * **Languages**: Arabic (Native) and English (Fluent).
 
 ## 📫 Connect with Me
