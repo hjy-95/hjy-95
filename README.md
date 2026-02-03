@@ -7,10 +7,9 @@
 * **AI Focus**: I use AI as a professional hobby to automate marketing workflows.
 
 ## 📊 My Digital Presence
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjy11595&show_icons=true&theme=radical" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hjy11595&show_icons=true&theme=radical" /></p>
 
 ## 📫 Connect with Me
-[Email](mailto:hussenjyounes@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Email](mailto:hussenjyounes@gmail.com)
+
 
