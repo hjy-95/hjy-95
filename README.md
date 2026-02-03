@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm hjy11595
+### Sales & Marketing Expert | AI Business Strategist
 
-<!--
-**hjy11595/hjy11595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Experience**: Over 8.5 years of expertise in the Sales sector.
+* **Education**: Bachelor's degree in Marketing from LIU.
+* **Specialization**: Luxury car rental and sales industry.
+* **AI Focus**: I use AI as a professional hobby to automate marketing workflows.
 
-Here are some ideas to get you started:
+## 📊 My Digital Presence
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjy11595&show_icons=true&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[Email](mailto:hussenjyounes@gmail.com)
+
