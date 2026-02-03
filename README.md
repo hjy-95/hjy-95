@@ -26,7 +26,9 @@ Specialist in **Sales and Marketing** with over **8.5 years of experience** in d
 ## 🎓 Education
 * **Bachelor's Degree in Marketing** | *Lebanese International University (LIU)*
 * **Literature Degree** | *Al-Najat Private School - Kuwait*
-
+## 🚀 Featured AI-Sales Projects
+### [AI Sales Predictor v1.0]
+*A Python-based tool designed to analyze luxury car rental market trends and predict high-value leads using data-driven insights.*
 ## 🛠 Skills & Expertise
 * **AI & Tech**: Automation, AI-driven marketing solutions, and CRM optimization.
 * **Core Skills**: Strategic selling, payment handling, and visual merchandising.
