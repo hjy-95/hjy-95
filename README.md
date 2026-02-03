@@ -11,5 +11,3 @@
 
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Email](mailto:hussenjyounes@gmail.com)
-
-
