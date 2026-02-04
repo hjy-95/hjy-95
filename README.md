@@ -6,26 +6,17 @@
 </p>
 
 ## 📖 Professional Summary
-Sales & Marketing specialist with **8.5+ years of professional experience**. Expert in **Luxury Market Dynamics** with approximately **4 years** specialized in the high-end car sector. Currently leveraging **AI Freelance** expertise to automate sales pipelines and marketing workflows.
+Sales & Marketing professional with **8.5+ years of experience**. Expert in **Luxury Market Dynamics** with 4 years specialized in the high-end car sector. Currently leveraging **AI Freelance** expertise to automate sales pipelines and marketing workflows.
 
-## 💼 Work Experience
+## 💼 Core Experience
+* **Total Sales Expertise:** 8.5 years of driving revenue and closing complex deals.
+* **Luxury Car Sector:** 4 years of specialized experience in high-end vehicle sales and rentals.
+* **Market Research:** Academic background from **LIU** with field experience at Info Pro.
+* **AI Business Strategy:** Freelance work focused on AI-driven lead generation and sales automation.
 
-### **AI Business Strategist (Freelance)** | *Feb 2026 – Present*
-* Developing AI-driven lead qualification chatbots for business automation.
-* Creating automated market research reports and sales trend analysis using Python.
-
-### **Sales & Marketing Expert** | *Total 8.5 Years*
-* **Luxury Car Sector (4 Years):** Specialized in luxury car rental strategies and high-end fleet sales.
-* **Market Research (Info Pro):** Conducted quantitative surveys and field research for major clients.
-* **Retail Sales Excellence:** Proven track record in high-volume sales at Virgin Megastore and American Eagle.
-
-## 🎓 Education
-* **Bachelor’s Degree in Marketing** | *Lebanese International University (LIU)*
-* **Literature Degree** | *Al-Najat Private School - Kuwait*
-
-## 🛠 Skills & Expertise
-* **Sales:** Strategic Negotiation, Lead Prospecting, CRM Mastery.
-* **AI:** Prompt Engineering (Gemini), Sales Automation, Data Scraping.
+## 🛠 Skills & Tools
+* **Sales:** Strategic Negotiation, CRM Management, Lead Prospecting.
+* **AI:** Google Gemini, Prompt Engineering, Sales Process Automation.
 * **Languages:** Arabic (Native), English (Professional).
 
 ## 📫 Connect with Me
