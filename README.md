@@ -6,18 +6,28 @@
 </p>
 
 ## 📖 Professional Summary
-Sales & Marketing specialist with **8.5+ years of experience**. Expert in **Luxury Market Dynamics** with 4 years specialized in high-end car sectors. Currently focused on leveraging **AI Freelance** expertise to automate sales pipelines and marketing workflows.
+Sales & Marketing specialist with **8.5+ years of experience**. Expert in **Luxury Market Dynamics** with approximately **4 years** specialized in the high-end car sector. Currently leveraging **AI Freelance** expertise to automate sales pipelines and marketing workflows.
 
-## 💼 Core Expertise
-* **High-Stakes Negotiation:** 8.5 years of experience in closing complex deals.
-* **Lead Generation:** Utilizing AI tools to identify and convert high-value prospects.
-* **Market Research:** Academic background from **LIU** applied to field analysis.
-* **AI Business Integration:** Expert in prompt engineering and sales process automation.
+## 💼 Professional Experience
+
+### **AI Business Strategist (Freelance)** | *Feb 2026 – Present*
+* Developing AI-driven lead qualification chatbots for business automation.
+* Creating automated market research reports and sales trend analysis using Python.
+
+### **Sales & Marketing Specialist** | *Total 8.5 Years*
+* **Luxury Car Sector (4 Years):** Specialized in high-end car rentals and sales strategies.
+* **Market Research (Info Pro):** Conducted quantitative surveys and field research for major clients.
+* **Retail Sales (Virgin & American Eagle):** Managed high-volume sales and customer relations.
+
+## 🎓 Education
+* **Bachelor’s Degree in Marketing** | *Lebanese International University (LIU)*
+* **Literature Degree** | *Al-Najat Private School - Kuwait*
 
 ## 🛠 Skills & Tools
-* **Sales:** Strategic Selling, Relationship Management, CRM Systems.
-* **AI:** Google Gemini, Prompt Engineering, Sales Automation.
+* **Sales:** Strategic Negotiation, Lead Generation, CRM Systems.
+* **AI:** Prompt Engineering (Gemini), Sales Automation, Data Scraping.
 * **Languages:** Arabic (Native), English (Professional).
 
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/hussein-younes-363521185) | [Email](mailto:hussenjyounes@gmail.com)
+
