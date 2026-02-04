@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Hussein Younes
 ### Sales & Marketing Specialist | AI Business Strategist
 
-<img src="https://github-readme-stats.vercel.app/api?username=hjy-95&show_icons=true&theme=radical" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hussein%20Younes&fontSize=70" />
+</p>
 
 ## 📖 Professional Summary
 Sales & Marketing specialist with **8.5+ years of professional experience**. Expert in **Luxury Market Dynamics** with approximately **4 years** specialized in the high-end car sector. Currently leveraging **AI Freelance** expertise to build automation tools for sales and marketing workflows.
@@ -14,9 +15,9 @@ Sales & Marketing specialist with **8.5+ years of professional experience**. Exp
 * Automating market research and data analysis using Python and LLMs.
 
 ### **Sales & Marketing Expert** | *Total 8.5 Years*
-* **Luxury Car Sector (4 Years):** Managed high-end fleet sales and luxury car rental strategies.
-* **Market Research (Info Pro):** Conducted quantitative surveys and field research for major accounts.
-* **Retail Excellence:** Proven track record in high-volume sales at **Virgin Megastore** and **American Eagle**.
+* **Luxury Car Sector (4 Years):** Specialized in luxury car rental strategies and high-end fleet sales.
+* **Market Research (Info Pro):** Conducted quantitative surveys and field research for major clients.
+* **Retail Sales Excellence:** Proven track record in high-volume sales at **Virgin Megastore** and **American Eagle**.
 
 ## 🎓 Education
 * **Bachelor’s Degree in Marketing** | *Lebanese International University (LIU)*
