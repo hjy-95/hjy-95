@@ -57,10 +57,9 @@ research for major clients.
   Contact Me
 </a>
 
-<a href="mailto:yourname@email.com?subject=Business Inquiry&body=Hi, I would like to discuss..." class="email-btn">
+* <a href="mailto:yourname@email.com?subject=Business Inquiry&body=Hi, I would like to discuss..." class="email-btn">
   Send an Email
 </a>
->
 
 * 📱 **Phone:** +961 70666169
 * 
