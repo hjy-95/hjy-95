@@ -1,16 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Hussein%20Younes&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0056b3&height=150&section=header&text=Hussein%20Younes&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sales%20Expert-8.5%20Years-blue?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/Luxury%20Cars-4%20Years-gold?style=for-the-badge&logo=mercedes-benz" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Expert-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Sales%20Expert-8.5%20Years-0056b3?style=for-the-badge&logo=salesforce" />
+  <img src="https://img.shields.io/badge/Luxury%20Cars-4%20Years-D4AF37?style=for-the-badge&logo=mercedes-benz" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Expert-28a745?style=for-the-badge&logo=python" />
 </p>
 
+---
+
+## 💼 Professional Experience
+
+### 🤖 AI Business Strategist (Freelance) | 2024 – Present
+* Integrating AI chatbots and automation into sales funnels to improve lead qualification.
+* Utilizing Python-based tools for market data analysis.
+
+### 🚗 Luxury Automotive Specialist | 4 Years
+* Led high-value sales operations and managed VIP client relationships for premium brands.
+* Specialized in high-stakes negotiations and luxury market dynamics.
+
+### 📈 Sales & Marketing Specialist | 8.5+ Years Total
+* Extensive background in revenue growth, strategic brand management, and retail excellence.
+* Proven track record in exceeding sales targets across diverse industries.
+
+---
+
+## 🛠️ Core Skills
+
+| **Sales & Strategy** | **Marketing & Tech** | **AI & Tools** |
+| :--- | :--- | :--- |
+| Strategic Negotiations | Lead Generation (B2B/B2C) | AI Sales Automation |
+| Relationship Management | Market Research & Analysis | Python for Business |
+| Revenue Optimization | Brand Development | CRM Tools & Apollo.io |
+
+---
+
+## 📂 Portfolio & Contact
+* 📄 **[Download Full CV (PDF)](./Hussein_Younes_CV_Marketing.pdf)**
+* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)**
+* 📧 **Email:** Hussenjyounes@gmail.com
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjy-95&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hjy-95&show_icons=true&theme=nord&count_private=true" />
 </p>
+
 
 # 👋 Hi, I'm Hussein Younes
 ### Sales & Marketing Strategist | Luxury Automotive Expert | AI Business Strategist
