@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hussein Younes
-### Senior Sales & Marketing Strategist | Luxury Automotive Expert | AI Business Strategist
+### Sales & Marketing Strategist | Luxury Automotive Expert | AI Business Strategist
 
 Professional with **8.5+ years of experience** in driving business growth. I combine deep sales psychology with modern AI tools to maximize revenue and lead generation.
 
