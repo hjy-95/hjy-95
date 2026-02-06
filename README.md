@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Hussein%20Younes&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sales%20Expert-8.5%20Years-blue?style=for-the-badge&logo=salesforce" />
+  <img src="https://img.shields.io/badge/Luxury%20Cars-4%20Years-gold?style=for-the-badge&logo=mercedes-benz" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Expert-green?style=for-the-badge&logo=python" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjy-95&show_icons=true&theme=radical&count_private=true" height="150" />
+</p>
+
 # 👋 Hi, I'm Hussein Younes
 ### Sales & Marketing Strategist | Luxury Automotive Expert | AI Business Strategist
 
