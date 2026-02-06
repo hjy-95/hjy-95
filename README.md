@@ -56,4 +56,5 @@ research for major clients.
 * 📧 **Email:** [Hussenjyounes@gmail.com](mailto:Hussenjyounes@gmail.com)
 * 📱 **Phone:** +961 70666169
 * 
+* 📄 **[Download My Full CV (PDF)](cv.pdf)**
 
