@@ -10,7 +10,7 @@ Sales & Marketing specialist with **8.5+ years of professional experience**. Exp
 
 ## 💼 Professional Experience
 
-### **AI Business Strategist (Freelance)** | * 2026 – Present*
+### **AI Business Strategist (Freelance)** | * 2025 – Present*
 * Designing AI-driven lead qualification systems and sales chatbots.
 * Automating market research and data analysis using Python and LLMs.
 
