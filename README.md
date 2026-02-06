@@ -54,7 +54,9 @@ research for major clients.
 
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)**
 
-* 📧 **Email:** ]
-(mailto:Hussenjyounes@gmail.com)
+<a href="mailto:yourname@email.com?subject=Inquiry from GitHub Portfolio&body=Hello, I would like to..." class="email-btn">
+  أرسل إيميل مباشر
+</a>
+
 * 📱 **Phone:** +961 70666169
 * 
