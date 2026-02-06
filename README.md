@@ -51,8 +51,8 @@ research for major clients.
 ---
 
 ## 📂 Portfolio & Contact
-* 📄 **[(./Hussein_Younes_CV_Marketing.pdf)**
-* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)
+** 📄 **[Download My Full CV (PDF)](./Hussein_Younes_CV_Marketing.pdf)**
+** 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)
 * 📧 **Email:** Hussenjyounes@gmail.com
 * 📱 **Phone:**
 * +961 70666169
