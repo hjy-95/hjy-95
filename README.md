@@ -53,12 +53,9 @@ research for major clients.
 * 📄 **[Download My Full CV (PDF)](Hussein_Younes_CV_Marketing.pdf)**
 
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)**
-<a href="mailto:yourname@email.com" class="email-btn">
-  Contact Me
-</a>
 
-* <a href="mailto:yourname@email.com?subject=Business Inquiry&body=Hi, I would like to discuss..." class="email-btn">
-  Send an Email </a>
+* 📩 [Send an Email](mailto:your.email@example.com?subject=Inquiry%20from%20GitHub%20Portfolio)
+
 
 * 📱 **Phone:** +961 70666169
 * 
