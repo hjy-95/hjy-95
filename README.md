@@ -1,32 +1,45 @@
 # 👋 Hi, I'm Hussein Younes
-### Sales & Marketing Specialist | AI Business Strategist
+### Senior Sales & Marketing Strategist | Luxury Automotive Expert | AI Business Strategist
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hussein%20Younes&fontSize=70" />
-</p>
+Professional with **8.5+ years of experience** in driving business growth. I combine deep sales psychology with modern AI tools to maximize revenue and lead generation.
 
-## 📖 Professional Summary
-Sales & Marketing specialist with **8.5+ years of professional experience**. Expert in **Luxury Market Dynamics** with approximately **4 years** specialized in the high-end car sector. Currently leveraging **AI Freelance** expertise to build automation tools for sales and marketing workflows.
+---
 
 ## 💼 Professional Experience
 
-### **AI Business Strategist (Freelance)** | * 2025 – Present*
-* Designing AI-driven lead qualification systems and sales chatbots.
-* Automating market research and data analysis using Python and LLMs.
+### 🤖 AI Business Strategist (Freelance) | 2025 – Present
+* Integrating AI chatbots and automation into sales funnels to improve lead qualification.
+* Utilizing Python-based tools for market data analysis and business strategy optimization.
 
-### **Sales & Marketing Expert** | *Total 8.5 Years*
-* **Luxury Car Sector (4 Years):** Specialized in luxury car rental strategies and high-end fleet sales.
-* **Market Research (Info Pro):** Conducted quantitative surveys and field research for major clients.
-* **Retail Sales Excellence:** Proven track record in high-volume sales at **Virgin Megastore** and **American Eagle**.
+### 🚗 Luxury Automotive Specialist 
+* Led high-value sales operations and managed VIP client relationships for premium automotive brands.
+* Developed strategic marketing campaigns that increased brand visibility and market share.
+
+### 📈 Sales & Marketing Specialist | 8.5+ Years (Total)
+* Extensive background in retail excellence (including Virgin Megastore), B2B sales, and strategic brand management.
+* Proven ability to exceed sales targets and manage complex negotiation cycles.
+
+---
+
+## 🛠️ Core Skills
+
+| **Sales & Strategy** | **Marketing & Tech** | **AI & Tools** |
+| :--- | :--- | :--- |
+| Strategic Negotiations | Lead Generation (B2B/B2C) | AI Sales Automation |
+| Relationship Management | Market Research & Analysis | Python for Business |
+| Revenue Optimization | Brand Development | Apollo.io & CRM Tools |
+
+---
 
 ## 🎓 Education
-* **Bachelor’s Degree in Marketing** | *Lebanese International University (LIU)*
-* **Literature Degree** | *Al-Najat Private School - Kuwait*
+* **Bachelor of Marketing** | Lebanese International University (LIU).
+* **MSc Candidate** (Upcoming).
 
-## 🛠 Skills & Expertise
-* **Sales:** Strategic Negotiation, Lead Prospecting, CRM Mastery.
-* **AI:** Prompt Engineering (Gemini), Sales Automation, Data Scraping.
-* **Languages:** Arabic (Native), English (Professional).
+---
 
-## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/hussein-younes-363521185) | [Email](mailto:hussenjyounes@gmail.com)
+## 📂 Portfolio & Contact
+* 📄 **[Download Full CV (PDF)](./Hussein_Younes_CV_Marketing.pdf)**
+* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)
+* 📧 **Email:** Hussenjyounes@gmail.com
+* 📱 **Phone:** +961 70666169
+
