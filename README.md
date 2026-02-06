@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0056b3&height=150&section=header&text=Hussein%20Younes&fontSize=50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0056B3&center=true&vCenter=true&width=435&lines=Hussein+Younes;Sales+%26+Marketing+Expert;Luxury+Automotive+Specialist;AI+Business+Strategist" alt="Typing SVG" />
 </p>
+>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sales%20Expert-8.5%20Years-0056b3?style=for-the-badge&logo=salesforce" />
