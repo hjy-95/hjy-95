@@ -23,7 +23,7 @@ Professional with **8.5+ years of experience** in driving business growth. I com
 research for major clients.
 
 ### 👫 Retail Sales Excellence
-• Proven track record in high-volume sales at Virgin Megastore and American Eagle.
+• Proven track record in high-volume sales and American eagle.
 
 ---
 
