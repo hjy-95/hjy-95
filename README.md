@@ -17,7 +17,11 @@ Professional with **8.5+ years of experience** in driving business growth. I com
 
 ### 📈 Sales & Marketing Specialist | 8.5+ Years (Total)
 * Extensive background in retail excellence (including Virgin Megastore), B2B sales, and strategic brand management.
-* Proven ability to exceed sales targets and manage complex negotiation cycles.
+**Marketing Research** ***(Info Pro)***
+• Conducted quantitative surveys and in-depth field
+research for major clients.
+**Retail Sales Excellence**
+• Proven track record in high-volume sales at Virgin Megastore and American Eagle.
 
 ---
 
@@ -33,12 +37,13 @@ Professional with **8.5+ years of experience** in driving business growth. I com
 
 ## 🎓 Education
 * **Bachelor of Marketing** | Lebanese International University (LIU).
-* **MSc Candidate** (Upcoming).
+* **Al-najat/School**
+* ***{at kuwait)***
 
 ---
 
 ## 📂 Portfolio & Contact
-* 📄 **[Download Full CV (PDF)](./Hussein_Younes_CV_Marketing.pdf)**
+* 📄 **[(./Hussein_Younes_CV_Marketing.pdf)**
 * 💼 **[LinkedIn Profile](https://www.linkedin.com/in/hussein-younes-363521185)
 * 📧 **Email:** Hussenjyounes@gmail.com
 * 📱 **Phone:** +961 70666169
