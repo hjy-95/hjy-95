@@ -3,11 +3,6 @@
 </p>
 >
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sales%20Expert-8.5%20Years-0056b3?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/Luxury%20Cars-4%20Years-D4AF37?style=for-the-badge&logo=mercedes-benz" />
-  <img src="https://img.shields.io/badge/AI%20Automation-Expert-28a745?style=for-the-badge&logo=python" />
-</p>
 
 ---
 
