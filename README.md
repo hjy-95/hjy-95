@@ -1,7 +1,6 @@
 
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjy-95&show_icons=true&theme=nord&count_private=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0056B3&center=true&vCenter=true&width=435&lines=Hussein+Younes;Sales+%26+Marketing+Expert;Luxury+Automotive+Specialist;AI+Business+Strategist" alt="Typing SVG" />
 </p>
 
 
